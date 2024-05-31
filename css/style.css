@@ -1,0 +1,44 @@
+.exams{
+	width:90%;
+	overflow: hidden;
+	background:skyblue;
+	margin:20px auto;
+	padding:20px ;
+}
+
+.exams ul{
+	margin:0;
+	padding: 0;
+}
+.exams a{
+	text-decoration: none;
+	font-family: timesofindia;
+}
+.exams ul li{
+	list-style: none;
+	display:inline-block;
+	width:15%;
+	height:150px;
+	background:#eee;
+	margin:15px 15px 0px 50px;
+	text-align:bottom;
+
+}
+.course{
+	background:#fff;
+	font-size: 16px;
+	background-color: #fff;
+	margin:20px auto;
+	width: 100%;
+
+
+}
+.course h1
+{
+	margin:20px auto;
+	padding:20px;
+	background-color:rgb(20,40,60);
+	color:#fff;
+}
+
+

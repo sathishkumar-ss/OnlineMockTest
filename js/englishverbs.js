@@ -1,0 +1,68 @@
+const quiz =[
+{
+	q:'DIVA:OPERA',
+	options:['producer:theatre','director:drama','conductor:bus','thespian:play'],
+	answer:3
+},
+{
+	q:'GRAIN:SALT',
+	options:['shard:pottery','shred:wood','blades:grass','chip:glass'],
+	answer:3
+},
+{
+	q:'THRUST:SPEAR',
+	options:['mangle:iron','scabbard:sword','bow:arrow','fence:epee'],
+	answer:3
+},
+{
+	q:'PAIN:SEDATIVE',
+	options:['comfort:stimulant','grief:consolation','trance:narcotic','ache:extraction'],
+	answer:1
+},
+{
+	q:'LIGHT:BLIND',
+	options:['speech:dumb','language:deaf','tongue:sound','voice:vibration'],
+	answer:0
+},
+{
+	q:'WAN:COLOUR',
+	options:['corpulent:weight','insipid:flavour','pallid:complexion','enigmatic:puzzle'],
+	answer:1
+},
+{
+	q:'PORK:PIG',
+	options:['rooster:chicken','mutton:sheep','steer:beef','lobster:crustacean'],
+	answer:1
+},
+{
+	q:'AFTER:BEFORE',
+	options:['first:second','present:past','contemporary:historic','successor:predecessor'],
+	answer:3
+},
+{
+	q:'INDIGENT:WEALTHY',
+	options:['angry:rich','native:affluent','gauche:graceful','scholarly:erudite'],
+	answer:2
+},
+{
+	q:'DISTANCE:MILE',
+	options:['liquid:litre','bushel:corn','weight:scale','fame:television'],
+	answer:0
+},
+{
+	q:'HOPE:ASPIRES',
+	options:['love:elevates','film:flam','fib:lie','fake:ordinary'],
+	answer:2
+},
+{
+	q:'CORPOREAL:SPIRITUAL',
+	options:['mesa:plateau','moron:savant','foreigner:immigrant','pedagogue:teacher'],
+	answer:1
+},
+{
+	q:'SYMPHONY:COMPOSER',
+	options:['Leonardo:music','Fresco:painter','colours:pallet','art:appreciation'],
+	answer:1
+}
+
+]

@@ -1,0 +1,182 @@
+
+
+*{
+		margin: 0;
+		padding:0;
+		box-sizing: border-box;
+		list-style: none;
+		text-decoration: none;
+		font-family: 'Josefin Sans', sans-serif;
+		color:#fff;
+		
+		
+}
+
+
+.sidebar {
+	display:flex;
+	display: relative;
+	list-style: none;
+}
+.sidebar .sidebar1{
+	position: fixed;
+	width:200px;
+	height:100%;
+	background-color:rgb(10,70,0);
+	padding: 30px 0;
+	box-sizing: border-box;
+}
+
+.sidebar .sidebar1 h2 {
+	color:#fff;
+	text-transform: uppercase;
+	text-align:center;
+	margin-bottom:30px;
+}
+.sidebar .sidebar1 ul li{
+	padding: 15px;
+	border-bottom: 1px solid rgba(0,0,0,0);
+	border-top: 1px solid rgba(225,225,225,0.05);
+	box-sizing: border-box;
+	list-style: none;
+}
+.sidebar .sidebar1 ul li a{
+	color:#fff;
+	text-decoration: none;
+	list-style: none;
+
+	
+
+}
+ul li:hover a {
+	padding-right: 5px;
+
+}
+.sidebar .sidebar1 ul li a .fas{
+	width:25px;
+}
+.sidebar .sidebar1 ul li:hover{
+	background:#594ffd;
+}
+
+.sidebar .sidebar1 ul li:hover a{
+	color:pink;
+	padding-left: 10px;
+}
+.sidebar .sidebar1 .social_media {
+	position: absolute;
+	bottom:0;
+	transform: translateX(-50%);
+	display:flex;
+
+}
+
+.sidebar .sidebar1 .social_media a{
+	display: flex;
+	width: 40px;
+	background:#fff;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	margin: 0 5px;
+	color:#fff;
+	border-top-right-radius: 5px;
+	border-top-left-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<head>
+					<style type="text/css">
+
+						p{
+							color:black;
+							display: inline-flex;
+							padding: 60px;
+							font-size: 22px;
+
+
+						}
+						p:hover{
+						
+							color:red;
+							padding: 20px;
+							height:20px;
+						   	font-weight: bold;
+						    border-radius: 300px;
+						    border:10px solid blue ;
+						    text-align: center;
+
+						}
+						.img{
+							background-size: cover;
+							background-position: absolute;
+						}
+					</style>
+				</head>
+
+				<body>
+					<header style="text-align: left;font-size: 32px;color:black">courses offered by you</header>	
+					<p>Logical Reasoning</p>
+					<p>English</p>
+					<p>Quantitative Aptitude</p>
+					<p>General Knowledge</p>
+					<p>General Science</p>
+					<p>Current Affairs</p>
+					<p>Data Interpretation</p>
+					<p>Verbal Reasoning</p> 
+				
+			</div>
+</div>
+
+</body>
+</html>?
